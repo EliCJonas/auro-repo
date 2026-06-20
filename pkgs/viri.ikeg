@@ -1,0 +1,7 @@
+{
+  "name": "Viri",
+  "version": "1.0",
+  "author": "EliCJonas",
+  "description": "A command-line complement to my other VirusTotal project, Virmi.",
+  "download-url": "https://github.com/EliCJonas/viri/releases/download/Release-1.0/viri.keg"
+}
