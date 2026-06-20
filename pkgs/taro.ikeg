@@ -1,0 +1,7 @@
+{
+  "name": "Taro",
+  "version": "1.0",
+  "author": "EliCJonas",
+  "description": "A TUI launcher program to start apps you can add yourself.",
+  "download-url": "https://github.com/EliCJonas/taro/releases/download/v1.0.0/taro.keg"
+}
