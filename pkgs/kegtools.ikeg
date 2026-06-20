@@ -1,0 +1,7 @@
+{
+  "name": "KegTools",
+  "version": "1.5",
+  "author": "EliCJonas",
+  "description": "Tools to make development of Auro packages much easier.",
+  "download-url": "https://github.com/EliCJonas/kegtools/releases/download/release-1.5/kegtools.keg"
+}
