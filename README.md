@@ -1,7 +1,7 @@
 # kegstore
 A repository for storing Auro packages
 
-```
+
 Work in progress!
 
 To contribute, simply:
@@ -20,3 +20,4 @@ An ikeg file looks like this:
   "description": "description",
   "download-url": "url to the keg package"
 }
+```
