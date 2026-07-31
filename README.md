@@ -10,9 +10,9 @@
 
 ---
 
-## 🤝 Contributing
+## How to Contribute
 
-We welcome contributions! To add a package, follow these steps:
+To add a package, follow these steps:
 
 1. Make a fork of the repo
 2. Modify the pkgs/pkgs.list file and add your package name
