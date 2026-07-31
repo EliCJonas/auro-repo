@@ -1,18 +1,26 @@
-# kegstore
-A repository for storing Auro packages
+<h1 align="center">kegstore</h1>
 
+<p align="center">
+  A repository for storing Auro packages.
+</p>
 
-Work in progress!
+<p align="center">
+  ⚠️ <b>Work in progress!</b>
+</p>
 
-To contribute, simply:
+---
+
+## 🤝 Contributing
+
+We welcome contributions! To add a package, follow these steps:
 
 1. Make a fork of the repo
 2. Modify the pkgs/pkgs.list file and add your package name
 3. Add an ikeg file with the naming scheme: [name_of_package].ikeg
 4. Create a pull request
 
-An ikeg file looks like this:
-```
+An ikeg file is formatted like this:
+```json
 {
   "name": "name",
   "version": "version",
@@ -21,3 +29,6 @@ An ikeg file looks like this:
   "download-url": "url to the keg package"
 }
 ```
+
+
+
