@@ -1,4 +1,4 @@
-<h1 align="center">kegstore</h1>
+<h1 align="center">auro-repo</h1>
 
 <p align="center">
   A repository for storing Auro packages.
