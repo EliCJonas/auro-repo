@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/eli/.codex/**)",
+      "Read(//home/eli/.gemini/**)",
+      "Bash(git *)"
+    ]
+  },
+  "disabledMcpjsonServers": [
+    "AgentsRoom-MCP",
+    "AgentsRoom-Test-Runner",
+    "AgentsRoom-QA-Tester"
+  ]
+}

@@ -4,4 +4,5 @@
   "author": "EliCJonas",
   "description": "A quick way to add, commit, and push from Git.",
   "download-url": "https://github.com/EliCJonas/easygit/releases/download/release-1.0/easygit.keg"
+  "checksum": "b5d00213e0300942e3e03ed2f393b521c146ef3a9abab48c73a17316f5f7533d"
 }

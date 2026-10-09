@@ -4,4 +4,5 @@
   "author": "EliCJonas",
   "description": "A package for auro to create kegs from installed packages.",
   "download-url": "https://github.com/EliCJonas/unkeg/releases/download/release-1.0/unkeg.keg"
+  "checksum": "fda71493d07d631b5026e1c1be0d9e74e8aef0c472658948861b2dd80349d850"
 }

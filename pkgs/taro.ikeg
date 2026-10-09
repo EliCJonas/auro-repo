@@ -4,4 +4,5 @@
   "author": "EliCJonas",
   "description": "A TUI launcher program to start apps you can add yourself.",
   "download-url": "https://github.com/EliCJonas/taro/releases/download/v1.0.0/taro.keg"
+  "checksum": "c980e462eceb9f24a0836921eb35bd2bc1f9cc1df0db00ecb9e06406dca4397b"
 }

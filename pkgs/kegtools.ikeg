@@ -4,4 +4,5 @@
   "author": "EliCJonas",
   "description": "Tools to make development of Auro packages much easier.",
   "download-url": "https://github.com/EliCJonas/kegtools/releases/download/release-1.5/kegtools.keg"
+  "checksum": "3c3f3d94ab382df46c388bb8a1afdf148c75d9b50ee10f471ffc449703ea4194"
 }

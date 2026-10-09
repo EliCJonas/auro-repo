@@ -4,4 +4,5 @@
   "author": "EliCJonas",
   "description": "A command-line complement to my other VirusTotal project, Virmi.",
   "download-url": "https://github.com/EliCJonas/viri/releases/download/Release-1.0/viri.keg"
+  "checksum": "d1f355c1677d4425e722fff33c952b09f1b6568af7ca6d7d7b4bb674ebbc2796"
 }
